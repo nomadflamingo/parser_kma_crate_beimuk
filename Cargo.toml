@@ -1,0 +1,9 @@
+[package]
+name = "parser_kma_crate_beimuk"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A brief description"
+
+[dependencies]
+peg = "0.8.4"
